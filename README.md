@@ -1,3 +1,3 @@
 # Personal Notes & Bookmark Manager
 
-Setup instructions go here.
+This is a working full stack project.
